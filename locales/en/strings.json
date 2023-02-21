@@ -1,0 +1,13 @@
+{
+    "english": "English",
+    "french": "French",
+    "title": "Home page",
+    "header": "Header in English",
+    "footer": "Footer in English",
+    "about": {
+        "title": "The about page title"
+    },
+    "index": {
+        "title": "The index page title"
+    }
+}
